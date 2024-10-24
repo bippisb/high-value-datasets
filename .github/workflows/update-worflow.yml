@@ -1,10 +1,10 @@
 name: Update Markdown with Dataset Info
 
-# Runs the action every day at midnight
+# This runs the workflow when a push event occurs but only for changes to specific paths
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # Allows manual execution as well
+  push:
+    paths:
+      - 'high_value_datasets.xlsx'  # Only run when this file changes
 
 jobs:
   update-markdown:
