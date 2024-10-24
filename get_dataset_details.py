@@ -10,8 +10,8 @@ api_url = "https://ckan.indiadataportal.com/api/3/action/package_search?rows=100
 response = requests.get(api_url)
 json_data = response.json()
 
-# Open the high-value-datasets.md markdown file for writing
-markdown_file = 'docs/high-value-datasets.md'
+# Open the index markdown file for writing
+markdown_file = 'docs/index.md'
 
 # Ensure the request was successful
 if response.status_code == 200 and json_data.get('success'):

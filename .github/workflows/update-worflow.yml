@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "sudham.surya@gmail.com"
           git config --local user.name "suryakandukuri"
-          git add docs/high-value-datasets.md
-          git commit -m "Update high-value-datasets.md with latest API data"
+          git add docs/index.md
+          git commit -m "Update docs/index.md with latest API data"
           git push
