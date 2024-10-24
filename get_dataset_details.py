@@ -11,7 +11,7 @@ response = requests.get(api_url)
 json_data = response.json()
 
 # Open the high-value-datasets.md markdown file for writing
-markdown_file = 'high-value-datasets.md'
+markdown_file = 'docs/high-value-datasets.md'
 
 # Ensure the request was successful
 if response.status_code == 200 and json_data.get('success'):
