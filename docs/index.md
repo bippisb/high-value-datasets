@@ -12,9 +12,7 @@
 
 `Frequency:` quinquennial 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/019ee7b0-ca60-47b0-b33c-ce247a6b7668/resource/a3d7b841-90df-41dc-b786-95e9eb9cf7d0/download/assembly-elections-data-at-candidate-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/eci-assembly_election_results-ac-qq-cfo) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/elections-in-india/r/eci-assembly_election_results-ac-qq-cfo) 
 
 ---
 
@@ -28,9 +26,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/b8873e83-647e-4073-8d5e-f15c76a3ab26/resource/d6e4172e-454e-4dec-8636-68fc7e706ca1/download/exports-at-principal-commodity-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-dgcis_port_level_export-st-mn-lfy) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/port-level-exports-and-imports/r/mci-dgcis_port_level_export-st-mn-lfy) 
 
 ---
 
@@ -44,9 +40,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/b8873e83-647e-4073-8d5e-f15c76a3ab26/resource/4c0241e9-04df-48a4-8f9f-bf2668c43f55/download/imports-at-principal-commodity-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-dgcis_port_level_import-st-mn-lfy) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/port-level-exports-and-imports/r/mci-dgcis_port_level_import-st-mn-lfy) 
 
 ---
 
@@ -60,9 +54,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/579b35e7-a2dc-4567-9f43-f6abce125dba/download/exports-to-african-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-afr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-afr) 
 
 ---
 
@@ -76,9 +68,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/4a4b5cab-615d-4f9b-bc02-f621d3399e5d/download/exports-to-antartica-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-ant) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-ant) 
 
 ---
 
@@ -92,9 +82,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/574636b8-5e96-4f08-a357-42e57bc0dad0/download/exports-to-asian-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-asi) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-asi) 
 
 ---
 
@@ -108,9 +96,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/e30733fe-0b14-4043-affc-778d957ba544/download/exports-to-european-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-eur) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-eur) 
 
 ---
 
@@ -124,9 +110,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/f105f1f5-3441-4227-8906-e2cc21376e4a/download/exports-to-north-american-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-nam) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-nam) 
 
 ---
 
@@ -140,9 +124,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/e2f46a6b-84cb-480e-a923-8e9e69afd1ea/download/exports-to-oceanic-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-oce) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-oce) 
 
 ---
 
@@ -156,9 +138,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/d6d6fb23-223a-411d-9728-67b892de01ae/download/exports-to-south-american-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-sam) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-sam) 
 
 ---
 
@@ -172,9 +152,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f9be9c01-9383-446d-b135-39acba784745/resource/e700b585-83db-4923-b3b6-ee771f85026b/download/exports-to-unspecified-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_export_lfy-cn-mn-uns) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-uns) 
 
 ---
 
@@ -188,9 +166,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/931e4706-1c0e-4997-aca3-232919440b90/download/imports-from-african-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-afr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-afr) 
 
 ---
 
@@ -204,9 +180,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/e73b5849-b8c1-4517-b88a-1fa82b3f7956/download/imports-from-antarctica-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-ant) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-ant) 
 
 ---
 
@@ -220,9 +194,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/31e441c8-5767-4209-a7ef-dca32aff64a8/download/imports-from-asian-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-asi) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-asi) 
 
 ---
 
@@ -236,9 +208,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/d2e5ed6a-b4b6-4bf9-b52c-b5b943d051db/download/imports-from-european-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-eur) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-eur) 
 
 ---
 
@@ -252,9 +222,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/f835c8dc-ae2e-4cf8-b5c6-618464f06658/download/imports-from-north-american-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-nam) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-nam) 
 
 ---
 
@@ -268,9 +236,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/a0a660b5-8b2a-43aa-84bb-8f49bdb5c2e4/download/imports-from-oceanic-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-oce) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-oce) 
 
 ---
 
@@ -284,9 +250,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/1dbe5011-20b9-47e9-bf45-77f8ddd17d28/download/imports-from-south-american-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-sam) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-sam) 
 
 ---
 
@@ -300,9 +264,7 @@
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/0e64447e-7e57-4e17-ac2a-6b86944abfb2/resource/0f301530-05d7-4f57-8944-797c81041ad4/download/imports-from-unspecified-countries.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mci-tradestat_import_lfy-cn-mn-uns) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-uns) 
 
 ---
 
@@ -324,9 +286,7 @@ Agriculture Census (Crop) dataset captures the structure and characteristics of 
 
 `Frequency:` Quinquennially 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/1fc3baed-d201-4d8e-8b2f-f1544eb1af0b/resource/33855f04-2655-489b-8437-e763f32e600e/download/tehsil-level-agcensus-crop.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moafw-agcensus_crop-th-qq-bfw) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/agricultural-census-crop/r/moafw-agcensus_crop-th-qq-bfw) 
 
 ---
 
@@ -340,9 +300,7 @@ Agriculture Census (Crop) dataset captures the structure and characteristics of 
 
 `Frequency:` Quinquennially 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/572e4410-8332-46a5-a212-12fd6928a20a/resource/572d9429-33f6-46c0-a42c-bbf600d3a3d8/download/tehsil-level-agcensus-non-crop.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moafw-agcensus_noncrop-th-qq-dew) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/agricultural-census-non-crop/r/moafw-agcensus_noncrop-th-qq-dew) 
 
 ---
 
@@ -358,9 +316,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/80789131-1b7d-4809-a03e-7ce88cee2917/resource/ead44f5f-6471-48ec-a488-4b5894302aaa/download/crop-wise-area-production-yield.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moafw-area_production_yield-dt-sn-qzf) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/area-production-yield-apy/r/moafw-area_production_yield-dt-sn-qzf) 
 
 ---
 
@@ -374,9 +330,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/41388795-3e3d-4c7e-82dc-d36335ad18b9/resource/cf3a725f-fb81-4ae8-b7ec-23443cd05d4c/download/cost-of-cultivation.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moafw-cost_of_cultivation-st-yr-dvq) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/cost-of-cultivation/r/moafw-cost_of_cultivation-st-yr-dvq) 
 
 ---
 
@@ -390,9 +344,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/5710ce21-a47c-435e-8057-a8a1bacc0d50/resource/211854f5-76cc-4e6a-ad7d-ec03186e36f6/download/daily-retail-prices-of-essential-commodities.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mocafpd-retail_price_report-st-dl-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/price-monitoring/r/mocafpd-retail_price_report-st-dl-aaa) 
 
 ---
 
@@ -406,9 +358,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/5710ce21-a47c-435e-8057-a8a1bacc0d50/resource/af4932df-e403-4d4a-b8e1-d5d3632a6263/download/wholesale-prices-state-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mocafpd-wholesale_price-st-dl-rrr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/price-monitoring/r/mocafpd-wholesale_price-st-dl-rrr) 
 
 ---
 
@@ -422,9 +372,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/25664936-d131-4b07-845e-4bd2c0d794aa/resource/9f1f8ea2-19e2-4615-a7bd-1ec79f3cd3f9/download/cdsp-rainfall.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moes-imd_cdsp_rainfall-pl-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/climate-data/r/moes-imd_cdsp_rainfall-pl-mn-aaa) 
 
 ---
 
@@ -438,9 +386,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/25664936-d131-4b07-845e-4bd2c0d794aa/resource/de9977f3-0910-4182-be92-89ecd01b18cf/download/temperature.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moes-imd_cdsp_temperature-pl-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/climate-data/r/moes-imd_cdsp_temperature-pl-mn-aaa) 
 
 ---
 
@@ -454,9 +400,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Biannually 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/f1b2fdba-3b56-47ca-bfc6-819fc64b712a/resource/457fddf1-982f-4c85-855d-5095578accc1/download/basic-details-of-schools.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/moe-udise_basic_details-pl-ot-sib) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/udise/r/moe-udise_basic_details-pl-ot-sib) 
 
 ---
 
@@ -470,9 +414,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/5841ceaf-d548-426b-a8b2-19fd57ebaf4c/resource/eb0d4fba-d333-4025-a574-b0da7fd33b09/download/major-health-indicators-subdistrict-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mohfw-hmis-sd-mn-fhi) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/health-management-information-system-hmis/r/mohfw-hmis-sd-mn-fhi) 
 
 ---
 
@@ -486,9 +428,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/d3243ee6-ee61-4345-863d-d534c7ad6a3b/resource/5ddef175-b6e3-4a97-b37e-536c3c83001f/download/cgwb-changes-in-depth-to-water-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mojs-wris_cgwb_wells_level_changes-pl-ot-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/groundwater/r/mojs-wris_cgwb_wells_level_changes-pl-ot-aaa) 
 
 ---
 
@@ -502,9 +442,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/d3243ee6-ee61-4345-863d-d534c7ad6a3b/resource/7eb15e93-d149-4d78-9c5f-143f2a47ac72/download/state-groundwater-boards-changes-in-depth-to-water-level.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mojs-wris_statewb_wells_level_changes-pl-ot-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/groundwater/r/mojs-wris_statewb_wells_level_changes-pl-ot-aaa) 
 
 ---
 
@@ -518,9 +456,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/6b0ff86f-1a92-40a6-93fa-086be0334c8e/resource/956efdc2-f940-4a65-9abc-9e5ea4906a15/download/daily-coal-stocks.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mop-coal_stock-pl-dl-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-coal_stock-pl-dl-aaa) 
 
 ---
 
@@ -534,9 +470,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/6b0ff86f-1a92-40a6-93fa-086be0334c8e/resource/158415c9-13d8-4f9c-bbfa-0c0c3ce3947b/download/daily-power-generation.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mop-power_generation-pl-dl-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc) 
 
 ---
 
@@ -550,9 +484,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/6b0ff86f-1a92-40a6-93fa-086be0334c8e/resource/abd6d0f5-b948-4c2e-9ca8-459721ee888d/download/daily-power-outage-reports.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mop-power_outage-pl-dl-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-power_outage-pl-dl-abc) 
 
 ---
 
@@ -566,9 +498,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/6b0ff86f-1a92-40a6-93fa-086be0334c8e/resource/f8c02d01-6795-405c-a611-a75336e81ff4/download/daily-renewable-energy-generation.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mop-renewable_energy_generation-pl-dl-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-renewable_energy_generation-pl-dl-aaa) 
 
 ---
 
@@ -582,9 +512,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/12259aba-a89a-458d-bf04-1db040b05bfd/resource/739aae45-0a9f-4ef0-a37b-f6c723d8685d/download/category-wise-workers.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mgnrega_category_wise_worker-gp-yr-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_category_wise_worker-gp-yr-aaa) 
 
 ---
 
@@ -598,9 +526,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/12259aba-a89a-458d-bf04-1db040b05bfd/resource/c8027530-9633-4cd7-aff2-7975cc52a482/download/employment-generated.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mgnrega_employment_generated-gp-yr-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_employment_generated-gp-yr-aaa) 
 
 ---
 
@@ -614,9 +540,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/12259aba-a89a-458d-bf04-1db040b05bfd/resource/5da27e18-b317-417a-8de9-301b55ad31b2/download/women-joint-accounts.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mgnrega_women_joint_acc-gp-yr-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_women_joint_acc-gp-yr-aaa) 
 
 ---
 
@@ -630,9 +554,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/593d6e83-4d05-4e44-ad5b-90b2f45b9e03/download/village-agriculture-report.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya_agri-vl-yr-rrr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_agri-vl-yr-rrr) 
 
 ---
 
@@ -646,9 +568,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/f4552f87-fcf0-42b9-ad86-74f751438879/download/village-basic-facilities.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya_basic_facility-vl-yr-rrr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_basic_facility-vl-yr-rrr) 
 
 ---
 
@@ -662,9 +582,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/4f334330-479b-48b0-846a-26af26b17588/download/village-level-drinking-water.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya_drinking_water-vl-yr-rrr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_drinking_water-vl-yr-rrr) 
 
 ---
 
@@ -678,9 +596,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/ba0d04d6-423b-4289-95de-cfb2d53d42b3/download/village-housing-report.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya_rural_housing-vl-gp-rrr) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_rural_housing-vl-gp-rrr) 
 
 ---
 
@@ -694,9 +610,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/04f08b14-f875-48b7-a3d6-d892392f99e6/download/ma_blocklevel_2020.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya-bl-ot-wbc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-bl-ot-wbc) 
 
 ---
 
@@ -710,9 +624,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/382942ce-d369-48b4-925b-476d0483f65f/download/panchayat-level-infrastructure.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya-gp-ot-bmd) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-gp-ot-bmd) 
 
 ---
 
@@ -726,9 +638,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/827d5a47-647f-4c00-8b21-a17ea43ce450/resource/2eacb61b-8e30-4eb0-8305-e0bbaeec0931/download/village-level-infrastructure.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-mission_antyodaya-vl-ot-rho) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-vl-ot-rho) 
 
 ---
 
@@ -742,9 +652,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/970f9b8f-65bd-4dad-849f-8b57b822c9dd/resource/f2196535-38e3-462c-a4c1-2930eb76678f/download/shg-and-member-profile.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-nrlm_shg_profile-shg-ot-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/nrlm-national-rural-livelihoods-mission/r/mord-nrlm_shg_profile-shg-ot-aaa) 
 
 ---
 
@@ -758,9 +666,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/970f9b8f-65bd-4dad-849f-8b57b822c9dd/resource/a6b7ac11-edb6-45f9-92e0-bb89268378ed/download/shg-financial-and-member-profile-details.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-nrlm_social_category_wise-shg-ot-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/nrlm-national-rural-livelihoods-mission/r/mord-nrlm_social_category_wise-shg-ot-abc) 
 
 ---
 
@@ -778,9 +684,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Yearly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/ca23895a-ed8b-438c-aa6e-c5a89b6b8dce/resource/f69e25cb-6d90-4837-941f-9c00b13c4df2/download/pmgsy-financial-and-physical-report.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mord-pmgsy_roads-pl-ot-ypf) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/pradhan-mantri-gram-sadak-yojana-pmgsy/r/mord-pmgsy_roads-pl-ot-ypf) 
 
 ---
 
@@ -794,9 +698,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/36ea3632-6ec7-43e6-8579-e8c80f7df640/resource/c9d109c7-8190-4a67-8166-0be1487db419/download/vahan-vehicle-registrations-by-fuel-type.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/morth-vahan_reg_by_fuel-ol-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_fuel-ol-mn-aaa) 
 
 ---
 
@@ -810,9 +712,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/36ea3632-6ec7-43e6-8579-e8c80f7df640/resource/fdbcf474-cef2-474c-993f-00c18134bfc8/download/vahan-vehicle-registrations-by-maker.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/morth-vahan_reg_by_maker-ol-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_maker-ol-mn-aaa) 
 
 ---
 
@@ -826,9 +726,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/36ea3632-6ec7-43e6-8579-e8c80f7df640/resource/0da46038-d208-4a2f-aae2-ffee6b456c5c/download/vahan-vehicle-registrations-by-norm.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/morth-vahan_reg_by_norm-ol-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_norm-ol-mn-aaa) 
 
 ---
 
@@ -842,9 +740,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/36ea3632-6ec7-43e6-8579-e8c80f7df640/resource/f9381a4d-7fc9-4a13-8e11-31e5790c2bc7/download/vahan-vehicle-registrations-by-vehicle-category.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/morth-vahan_reg_by_vehicle_category-ol-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_vehicle_category-ol-mn-aaa) 
 
 ---
 
@@ -858,9 +754,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/36ea3632-6ec7-43e6-8579-e8c80f7df640/resource/cc32d3e2-7ea3-4b6b-94ab-85e57f6a0a3a/download/vahan-vehicle-registrations-by-vehicle-class.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/morth-vahan_reg_by_vehicle_class-ol-mn-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_vehicle_class-ol-mn-aaa) 
 
 ---
 
@@ -874,9 +768,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/c3bb2d0a-e143-4ec2-ba7b-97efc79b97a3/resource/d24922ab-dee9-4457-9778-342ef2a8b306/download/labour-force-participation-rate-lfpr.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mospi-plfs_lfpr-st-qt-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_lfpr-st-qt-abc) 
 
 ---
 
@@ -890,9 +782,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/c3bb2d0a-e143-4ec2-ba7b-97efc79b97a3/resource/b95bf555-bf77-4cb2-a567-fef4f764e82f/download/persons-surveyed.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mospi-plfs_persons_surveyed-st-qt-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_persons_surveyed-st-qt-abc) 
 
 ---
 
@@ -906,9 +796,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/c3bb2d0a-e143-4ec2-ba7b-97efc79b97a3/resource/a69f859e-516c-4436-bf62-b0ad4415de85/download/unemployment-rate-ur.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mospi-plfs_ur-st-qt-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_ur-st-qt-abc) 
 
 ---
 
@@ -922,9 +810,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/c3bb2d0a-e143-4ec2-ba7b-97efc79b97a3/resource/d066f502-a88e-40df-994e-c8a3e14f5b55/download/distribution-of-persons-working-sector-wise.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mospi-plfs_work_by_sector-st-qt-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_work_by_sector-st-qt-abc) 
 
 ---
 
@@ -938,9 +824,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/c3bb2d0a-e143-4ec2-ba7b-97efc79b97a3/resource/28276d16-18f1-4c5d-a32b-953167df875f/download/worker-population-ratio-wpr.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/mospi-plfs_wpr-st-qt-abc) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_wpr-st-qt-abc) 
 
 ---
 
@@ -954,9 +838,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Other 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/eb565ca6-aa06-47fd-9c81-05c7ed6c538b/resource/9b9bede5-9d8f-4991-9dce-828fff249695/download/bank-outlets-and-atms.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/rbi-bank_outlets_and_atms-pl-ot-aaa) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-bank_outlets_and_atms-pl-ot-aaa) 
 
 ---
 
@@ -972,7 +854,5 @@ The M3 dataset is an essential tool for policymakers, economists, and researcher
 
 `Frequency:` Fortnightly 
 
-`Resource URL:` [CKAN Link](https://ckan.indiadataportal.com/dataset/eb565ca6-aa06-47fd-9c81-05c7ed6c538b/resource/2fb028d5-7906-4071-92cb-fd5460dac4d1/download/money-stock-m3.csv) 
-
-`Wasabi URL:` [S3 Bucket](https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/rbi-money_stock-in-wk-sne) 
+`Dataset URL:` [IDP Link](https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-money_stock-in-wk-sne) 
 

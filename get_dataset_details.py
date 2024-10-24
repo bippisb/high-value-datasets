@@ -28,20 +28,21 @@ if response.status_code == 200 and json_data.get('success'):
             for package in packages:
                 for resource in package.get('resources', []):
                     if resource.get('sku') == sku:
-                        package_name = package['title']
+                        package_title = package['title']
+                        package_name = package['name']
                         resource_name = resource['name']
                         resource_description = resource.get('description', 'No description available')
                         granularity = resource.get('granularity', 'Not specified')
                         frequency = resource.get('frequency', 'Not specified')
-                        resource_url = resource.get('url', 'No URL available')
-                        wasabi_url = f"https://s3.ap-southeast-1.wasabisys.com/high-value-datasets/{sku}"
+                        source = resource.get('source_name', 'Not specified')
+                        resource_url = f"https://indiadataportal.com/p/{package_name}/r/{sku}"
                         
                         # Write dataset information to the markdown file
                         file.write(f"---\n\n")  # Add a separator between datasets
-                        file.write(f"`Collection Name:` {package_name} \n\n")  # Add the collection name
+                        file.write(f"`Collection Name:` {package_title} \n\n")  # Add the collection name
                         file.write(f"`Dataset Name:` {resource_name} \n\n")  # Add the dataset name
                         file.write(f"`Dataset Description:` {resource_description} \n\n")  # Add the description
                         file.write(f"`Granularity:` {granularity} \n\n")  # Add the granularity
                         file.write(f"`Frequency:` {frequency} \n\n")  # Add the frequency
-                        file.write(f"`Resource URL:` [CKAN Link]({resource_url}) \n\n")  # Add the resource URL
-                        file.write(f"`Wasabi URL:` [S3 Bucket]({wasabi_url}) \n\n")  # Add the Wasabi URL
+                        file.write(f"`Dataset URL:` [IDP Link]({resource_url}) \n\n")  # Add the resource URL
+                        # file.write(f"`Wasabi URL:` [S3 Bucket]({wasabi_url}) \n\n")  # Add the Wasabi URL
