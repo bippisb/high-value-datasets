@@ -12,7 +12,7 @@
 
 `Frequency:` quinquennial 
 
-`Source:` Not specified 
+`Source:` Election Commission of India 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/elections-in-india/r/eci-assembly_election_results-ac-qq-cfo) 
 
@@ -28,7 +28,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/port-level-exports-and-imports/r/mci-dgcis_port_level_export-st-mn-lfy) 
 
@@ -44,7 +44,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/port-level-exports-and-imports/r/mci-dgcis_port_level_import-st-mn-lfy) 
 
@@ -60,7 +60,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-afr) 
 
@@ -76,7 +76,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-ant) 
 
@@ -92,7 +92,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-asi) 
 
@@ -108,7 +108,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-eur) 
 
@@ -124,7 +124,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-nam) 
 
@@ -140,7 +140,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-oce) 
 
@@ -156,7 +156,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-sam) 
 
@@ -172,7 +172,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-uns) 
 
@@ -188,7 +188,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-afr) 
 
@@ -204,7 +204,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-ant) 
 
@@ -220,7 +220,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-asi) 
 
@@ -236,7 +236,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-eur) 
 
@@ -252,7 +252,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-nam) 
 
@@ -268,7 +268,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-oce) 
 
@@ -284,7 +284,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-sam) 
 
@@ -300,7 +300,7 @@
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Directorate General of Commercial Intelligence and Statistics 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/import-trade-statistics/r/mci-tradestat_import_lfy-cn-mn-uns) 
 
@@ -324,7 +324,7 @@ Agriculture Census (Crop) dataset captures the structure and characteristics of 
 
 `Frequency:` Quinquennially 
 
-`Source:` Not specified 
+`Source:` Ministry of Agriculture & Farmers Welfare 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/agricultural-census-crop/r/moafw-agcensus_crop-th-qq-bfw) 
 
@@ -340,7 +340,7 @@ Agriculture Census (Crop) dataset captures the structure and characteristics of 
 
 `Frequency:` Quinquennially 
 
-`Source:` Not specified 
+`Source:` Ministry of Agriculture & Farmers Welfare 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/agricultural-census-non-crop/r/moafw-agcensus_noncrop-th-qq-dew) 
 
@@ -358,7 +358,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Ministry of Agriculture & Farmers Welfare 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/area-production-yield-apy/r/moafw-area_production_yield-dt-sn-qzf) 
 
@@ -374,7 +374,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Directorate of Economics and Statistics, Department of Agriculture Cooperation and Farmers Welfare, Ministry of Agriculture and Farmers Welfare 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/cost-of-cultivation/r/moafw-cost_of_cultivation-st-yr-dvq) 
 
@@ -390,7 +390,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Department of Consumer Affairs 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/price-monitoring/r/mocafpd-retail_price_report-st-dl-aaa) 
 
@@ -406,7 +406,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Department of Consumer Affairs 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/price-monitoring/r/mocafpd-wholesale_price-st-dl-rrr) 
 
@@ -422,7 +422,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` India Water Resources Information System 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/climate-data/r/moes-imd_cdsp_rainfall-pl-mn-aaa) 
 
@@ -438,7 +438,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` India Water Resources Information System 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/climate-data/r/moes-imd_cdsp_temperature-pl-mn-aaa) 
 
@@ -454,7 +454,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Biannually 
 
-`Source:` Not specified 
+`Source:` Ministry of Education 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/udise/r/moe-udise_basic_details-pl-ot-sib) 
 
@@ -470,7 +470,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Health & Family Welfare 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/health-management-information-system-hmis/r/mohfw-hmis-sd-mn-fhi) 
 
@@ -486,7 +486,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:`  Central Ground Water Board, Water Resources Information System (WRIS) 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/groundwater/r/mojs-wris_cgwb_wells_level_changes-pl-ot-aaa) 
 
@@ -502,7 +502,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Source:` Not specified 
+`Source:`  Central Ground Water Board, Water Resources Information System (WRIS) 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/groundwater/r/mojs-wris_statewb_wells_level_changes-pl-ot-aaa) 
 
@@ -518,7 +518,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Ministry of Power 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-coal_stock-pl-dl-aaa) 
 
@@ -534,7 +534,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Ministry of Power 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc) 
 
@@ -550,7 +550,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Ministry of Power 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-power_outage-pl-dl-abc) 
 
@@ -566,7 +566,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Daily 
 
-`Source:` Not specified 
+`Source:` Ministry of Power 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/power/r/mop-renewable_energy_generation-pl-dl-aaa) 
 
@@ -582,7 +582,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_category_wise_worker-gp-yr-aaa) 
 
@@ -598,7 +598,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_employment_generated-gp-yr-aaa) 
 
@@ -614,7 +614,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_women_joint_acc-gp-yr-aaa) 
 
@@ -630,7 +630,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_agri-vl-yr-rrr) 
 
@@ -646,7 +646,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_basic_facility-vl-yr-rrr) 
 
@@ -662,7 +662,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_drinking_water-vl-yr-rrr) 
 
@@ -678,7 +678,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya_rural_housing-vl-gp-rrr) 
 
@@ -694,7 +694,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-bl-ot-wbc) 
 
@@ -710,7 +710,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-gp-ot-bmd) 
 
@@ -726,7 +726,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Mission Antyodaya Survey 2020 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/mission-antyodaya/r/mord-mission_antyodaya-vl-ot-rho) 
 
@@ -742,7 +742,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/nrlm-national-rural-livelihoods-mission/r/mord-nrlm_shg_profile-shg-ot-aaa) 
 
@@ -758,7 +758,7 @@ The data may also be useful in analysing trends in crop production, including ch
 
 `Frequency:` Other 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/nrlm-national-rural-livelihoods-mission/r/mord-nrlm_social_category_wise-shg-ot-abc) 
 
@@ -778,7 +778,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Yearly 
 
-`Source:` Not specified 
+`Source:` Ministry of Rural Development 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/pradhan-mantri-gram-sadak-yojana-pmgsy/r/mord-pmgsy_roads-pl-ot-ypf) 
 
@@ -794,7 +794,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Road Transport and Highways 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_fuel-ol-mn-aaa) 
 
@@ -810,7 +810,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Road Transport and Highways 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_maker-ol-mn-aaa) 
 
@@ -826,7 +826,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Road Transport and Highways 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_norm-ol-mn-aaa) 
 
@@ -842,7 +842,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Road Transport and Highways 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_vehicle_category-ol-mn-aaa) 
 
@@ -858,7 +858,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Monthly 
 
-`Source:` Not specified 
+`Source:` Ministry of Road Transport and Highways 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/vehicle-registrations/r/morth-vahan_reg_by_vehicle_class-ol-mn-aaa) 
 
@@ -874,7 +874,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:` Ministry of Statistics and Programme Implementation 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_lfpr-st-qt-abc) 
 
@@ -890,7 +890,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:` Ministry of Statistics and Programme Implementation 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_persons_surveyed-st-qt-abc) 
 
@@ -906,7 +906,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:` Ministry of Statistics and Programme Implementation 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_ur-st-qt-abc) 
 
@@ -922,7 +922,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:` Ministry of Statistics and Programme Implementation 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_work_by_sector-st-qt-abc) 
 
@@ -938,7 +938,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Quarterly 
 
-`Source:` Not specified 
+`Source:` Ministry of Statistics and Programme Implementation 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/employment/r/mospi-plfs_wpr-st-qt-abc) 
 
@@ -954,7 +954,7 @@ Researchers, policymakers, and other stakeholders can use this dataset to analyz
 
 `Frequency:` Other 
 
-`Source:` Not specified 
+`Source:` Database on Indian Economy 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-bank_outlets_and_atms-pl-ot-aaa) 
 
@@ -972,7 +972,7 @@ The M3 dataset is an essential tool for policymakers, economists, and researcher
 
 `Frequency:` Fortnightly 
 
-`Source:` Not specified 
+`Source:` Database on Indian Economy 
 
 `Dataset URL:` [IDP Link](https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-money_stock-in-wk-sne) 
 

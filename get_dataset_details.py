@@ -34,7 +34,7 @@ if response.status_code == 200 and json_data.get('success'):
                         resource_description = resource.get('description', 'No description available')
                         granularity = resource.get('granularity', 'Not specified')
                         frequency = resource.get('frequency', 'Not specified')
-                        source = resource.get('source_name', 'Not specified')
+                        source = package.get('source_name', 'Not specified')
                         resource_url = f"https://indiadataportal.com/p/{package_name}/r/{sku}"
                         
                         # Write dataset information to the markdown file
