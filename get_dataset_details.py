@@ -44,5 +44,6 @@ if response.status_code == 200 and json_data.get('success'):
                         file.write(f"`Dataset Description:` {resource_description} \n\n")  # Add the description
                         file.write(f"`Granularity:` {granularity} \n\n")  # Add the granularity
                         file.write(f"`Frequency:` {frequency} \n\n")  # Add the frequency
+                        file.write(f"`Source:` {source} \n\n")  # Add the source
                         file.write(f"`Dataset URL:` [IDP Link]({resource_url}) \n\n")  # Add the resource URL
                         # file.write(f"`Wasabi URL:` [S3 Bucket]({wasabi_url}) \n\n")  # Add the Wasabi URL
