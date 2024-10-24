@@ -1,0 +1,36 @@
+name: Update Markdown with Dataset Info
+
+# Runs the action every day at midnight
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual execution as well
+
+jobs:
+  update-markdown:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas requests openpyxl
+
+      - name: Run the Python script
+        run: |
+          python get_dataset_details.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add high-value-datasets.md
+          git commit -m "Update high-value-datasets.md with latest API data"
+          git push
