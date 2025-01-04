@@ -24,6 +24,8 @@ jobs:
           pip install pandas requests openpyxl
 
       - name: Run the Python script
+        env:
+          CKAN_API_KEY: ${{ secrets.CKAN_API_KEY }}
         run: |
           python get_dataset_details.py
 
