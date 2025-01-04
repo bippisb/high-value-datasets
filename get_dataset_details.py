@@ -50,11 +50,11 @@ if response.status_code == 200 and json_data.get('success'):
             source = package.get('source_name', 'Not specified')
             sector = package.get('sector', 'Not specified')
             file.write(f"## {package_title}\n\n")
-            file.write(f"{package_description}\n\n")
-            file.write(f"[IDP Link]({package_url})\n\n")
+            # file.write(f"{package_description}\n\n")
+            # file.write(f"[IDP Link]({package_url})\n\n")
             file.write(f"Source: {source}\n\n")
             file.write(f"Sector: {sector}\n\n")
-            file.write(f"---\n\n")
+            # file.write(f"---\n\n")
             # get request for getting resource details using package_show api call
             # https://ckandev.indiadataportal.com/api/3/action/package_show?id=minimum-support-price-msp
             api_url = f"https://ckandev.indiadataportal.com/api/3/action/package_show?id={package_name}"
@@ -69,12 +69,14 @@ if response.status_code == 200 and json_data.get('success'):
                     granularity = resource.get('granularity', 'Not specified')
                     frequency = resource.get('frequency', 'Not specified')
                     # resource_url = f"https://dev.indiadataportal.com/p/{package_name}/r/{resource_name}"
-                    file.write(f"### {resource_name}\n\n")
-                    file.write(f"{resource_description}\n\n")
+                    # file.write(f"### {resource_name}\n\n")
                     file.write(f"Granularity: {granularity}\n\n")
                     file.write(f"Frequency: {frequency}\n\n")
+                    file.write(f"{resource_description}\n\n")
                     # file.write(f"[IDP Link]({resource_url})\n\n")
                     file.write(f"---\n\n")
+        # write "please reach out to gursharan_sigh@isb.edu if you need any of the dataset"
+        file.write("Please reach out to gursharan_sigh@isb.edu if you need any of the dataset")
 
         # # for sku in df['sku']:
         #     for package in packages:
