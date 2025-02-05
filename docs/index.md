@@ -1,16 +1,16 @@
 # High Granular Datasets - India Data Portal
 
-## VAHAN Vehicle Registrations
+## UDISE 2023
 
-Source: Ministry of Road Transport and Highways
+Source: Ministry of Education
 
-Sector: ['Economy', 'Transportation']
+Sector: ['Education']
 
-Granularity: Regional Transport Office
+Granularity: Point
 
-Frequency: Monthly
+Frequency: Biannually
 
-The "VAHAN Vehicle Registrations" dataset provides comprehensive data on vehicle registrations across India, offering insights into various aspects such as vehicle norms, manufacturers, fuel types, categories, and classes. This dataset includes key variables like the date of registration, state names and codes, Regional Transport Office (RTO) names and codes, vehicle manufacturers, fuel types (e.g., petrol, diesel, electric), vehicle categories (e.g., two-wheeler, four-wheeler), and vehicle classes. Additionally, it categorizes data by specific norms, vehicle types, and other criteria, detailing the number of registrations for each category. This resource is invaluable for policymakers, transportation authorities, analysts, and the automotive industry, enabling them to monitor and understand trends in vehicle registrations, compliance with regulations, and the environmental impact of fuel usage across different regions and RTOs in India.
+
 
 ---
 
@@ -24,7 +24,23 @@ Granularity: Point
 
 Frequency: Daily 
 
+Coal Stocks data is taken from thermal power stations across India. The data is collected daily. It contains coal stock data by state, sector, and individual power station. The data field includes mode of transport, capacity, normative stocks, actual stocks, receipt, consumption, the criticalness of the plant, etc., for each power station.
 
+[Data Summary](https://indiadataportal.com/p/power/r/mop-coal_stock-pl-dl-aaa#dataset-summary)
+
+---
+
+## VAHAN Vehicle Registrations
+
+Source: Ministry of Road Transport and Highways
+
+Sector: ['Economy', 'Transportation']
+
+Granularity: Regional Transport Office
+
+Frequency: Monthly
+
+The "VAHAN Vehicle Registrations" dataset provides comprehensive data on vehicle registrations across India, offering insights into various aspects such as vehicle norms, manufacturers, fuel types, categories, and classes. This dataset includes key variables like the date of registration, state names and codes, Regional Transport Office (RTO) names and codes, vehicle manufacturers, fuel types (e.g., petrol, diesel, electric), vehicle categories (e.g., two-wheeler, four-wheeler), and vehicle classes. Additionally, it categorizes data by specific norms, vehicle types, and other criteria, detailing the number of registrations for each category. This resource is invaluable for policymakers, transportation authorities, analysts, and the automotive industry, enabling them to monitor and understand trends in vehicle registrations, compliance with regulations, and the environmental impact of fuel usage across different regions and RTOs in India.
 
 ---
 
@@ -148,20 +164,6 @@ Granularity: Village
 Frequency: Yearly
 
 The Mission Antyodaya dataset offers an extensive overview of village-level infrastructure, socio-economic indicators, and resource availability across India. This comprehensive dataset, collected under the Mission Antyodaya initiative, aims to uplift the most underprivileged rural communities by providing detailed insights into various aspects of rural life. This dataset serves as a crucial tool for policymakers, researchers, and development practitioners, providing a holistic view of rural development needs and achievements. By capturing diverse aspects of village life, the dataset facilitates comprehensive monitoring, planning, and implementation of initiatives aimed at improving rural infrastructure and services, thereby contributing to poverty alleviation and sustainable development in India's rural areas.
-
----
-
-## UDISE 2023
-
-Source: Ministry of Education
-
-Sector: ['Education']
-
-Granularity: Point
-
-Frequency: Biannually
-
-
 
 ---
 
