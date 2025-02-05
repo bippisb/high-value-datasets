@@ -13,6 +13,8 @@ Granularity: Point
 Frequency: Biannually
 
 The Unified District Information System for Education (UDISE) is a comprehensive database of schools in India, encompassing over 1.5 million schools, 9.6 million teachers, and 264 million children. Developed by the Government of India under the Ministry of Education, UDISE serves as a vital management information system that systematically collects, collates, and disseminates data on various aspects of school education. It captures detailed information on school infrastructure, teacher qualifications, student enrollment, and other key educational parameters. Data is collected bi-annually from pre-primary to higher secondary levels across all states and union territories, ensuring a robust and up-to-date overview of the education sector.
+
+
 | Variable Name                            | Variable Description                                    | Variable Type |
 |------------------------------------------|--------------------------------------------------------|--------------|
 | state_name                               | State                                                 | TEXT         |
@@ -59,7 +61,6 @@ The Unified District Information System for Education (UDISE) is a comprehensive
 | xii_students                             | Students in Class XII                              | NUMERIC      |
 | class_students                           | Non Primary Students                               | NUMERIC      |
 | class_with_pre_primary_students          | Total Students                                    | NUMERIC      |
-
 
 ---
 
