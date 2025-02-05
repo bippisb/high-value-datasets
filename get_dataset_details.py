@@ -68,8 +68,10 @@ if response.status_code == 200 and json_data.get('success'):
                     resource_description = resource.get('description', package_description)
                     granularity = resource.get('granularity', 'Not specified')
                     frequency = resource.get('frequency', 'Not specified')
+                    
+                    # print(f"package_name: {package_name}, resource_name: {resource_name}, resource_description: {package_description}, granularity: {granularity}, frequency: {frequency} \n\n")
                     # resource_url = f"https://dev.indiadataportal.com/p/{package_name}/r/{resource_name}"
-                    # file.write(f"### {resource_name}\n\n")
+                    file.write(f"### {resource_name}\n\n")
                     file.write(f"Granularity: {granularity}\n\n")
                     file.write(f"Frequency: {frequency}\n\n")
                     file.write(f"{resource_description}\n\n")
