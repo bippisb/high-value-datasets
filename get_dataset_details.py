@@ -65,7 +65,7 @@ if response.status_code == 200 and json_data.get('success'):
                 resources = json_data['result']['resources']  # Extract the list of resources from the JSON response
                 for resource in resources:
                     resource_name = resource['name']
-                    resource_description = resource.get('description', 'No description available')
+                    resource_description = resource.get('description', package_description)
                     granularity = resource.get('granularity', 'Not specified')
                     frequency = resource.get('frequency', 'Not specified')
                     # resource_url = f"https://dev.indiadataportal.com/p/{package_name}/r/{resource_name}"
