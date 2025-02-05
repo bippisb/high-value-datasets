@@ -1,5 +1,68 @@
 # High Granular Datasets - India Data Portal
 
+## UDISE 2023
+
+Source: Ministry of Education
+
+Sector: ['Education']
+
+### UDISE 2023
+
+Granularity: Point
+
+Frequency: Biannually
+
+The Unified District Information System for Education (UDISE) is a comprehensive database of schools in India, encompassing over 1.5 million schools, 9.6 million teachers, and 264 million children. Developed by the Government of India under the Ministry of Education, UDISE serves as a vital management information system that systematically collects, collates, and disseminates data on various aspects of school education. It captures detailed information on school infrastructure, teacher qualifications, student enrollment, and other key educational parameters. Data is collected bi-annually from pre-primary to higher secondary levels across all states and union territories, ensuring a robust and up-to-date overview of the education sector.
+| Variable Name                            | Variable Description                                    | Variable Type |
+|------------------------------------------|--------------------------------------------------------|--------------|
+| state_name                               | State                                                 | TEXT         |
+| state_code                               | State Code                                           | TEXT         |
+| district_name                            | District                                             | TEXT         |
+| district_code                            | District Code                                        | TEXT         |
+| sub_district_name                        | Sub-District                                         | TEXT         |
+| sub_district_code                        | Sub-District Code                                    | TEXT         |
+| cluster_name                             | Cluster                                             | TEXT         |
+| village_name                             | Village                                             | TEXT         |
+| udise_village_code                       | UDISE Village Code                                  | TEXT         |
+| pincode                                  | Pincode                                             | TEXT         |
+| ward                                     | Ward                                                | TEXT         |
+| school_name                              | School Name                                         | TEXT         |
+| udise_school_code                        | School Code                                         | TEXT         |
+| school_category                          | School Category                                     | TEXT         |
+| school_type                              | School Type                                         | TEXT         |
+| management                               | Management                                          | TEXT         |
+| year_of_establishment                    | Year of Establishment                               | TEXT         |
+| longitude                                | Longitude                                           | NUMERIC      |
+| latitude                                 | Latitude                                            | NUMERIC      |
+| status                                   | Status                                             | TEXT         |
+| location_type                            | Location Type                                      | TEXT         |
+| class_from                               | Class From                                         | NUMERIC      |
+| class_to                                 | Class To                                           | NUMERIC      |
+| aff_board_sec                            | Affiliation Board for Secondary Education         | TEXT         |
+| aff_board_h_sec                          | Affiliation Board for Higher Secondary Education  | TEXT         |
+| pre_primary                              | Pre Primary Rooms                                  | NUMERIC      |
+| class_rooms                              | Class Rooms                                        | NUMERIC      |
+| other_rooms                              | Other Rooms                                        | NUMERIC      |
+| total_teachers                           | Teachers                                           | NUMERIC      |
+| pre_primary_students                     | Pre Primary Students                               | NUMERIC      |
+| i_students                               | Students in Class I                                | NUMERIC      |
+| ii_students                              | Students in Class II                               | NUMERIC      |
+| iii_students                             | Students in Class III                              | NUMERIC      |
+| iv_students                              | Students in Class IV                               | NUMERIC      |
+| v_students                               | Students in Class V                                | NUMERIC      |
+| vi_students                              | Students in Class VI                               | NUMERIC      |
+| vii_students                             | Students in Class VII                              | NUMERIC      |
+| viii_students                            | Students in Class VIII                             | NUMERIC      |
+| ix_students                              | Students in Class IX                               | NUMERIC      |
+| x_students                               | Students in Class X                                | NUMERIC      |
+| xi_students                              | Students in Class XI                               | NUMERIC      |
+| xii_students                             | Students in Class XII                              | NUMERIC      |
+| class_students                           | Non Primary Students                               | NUMERIC      |
+| class_with_pre_primary_students          | Total Students                                    | NUMERIC      |
+
+
+---
+
 ## Daily Coal Stocks
 
 Source: Ministry of Power
@@ -39,22 +102,6 @@ Coal Stocks data is taken from thermal power stations across India. The data is 
 
 
 [Data Summary](https://indiadataportal.com/p/power/r/mop-coal_stock-pl-dl-aaa#dataset-summary)
-
----
-
-## UDISE 2023
-
-Source: Ministry of Education
-
-Sector: ['Education']
-
-### UDISE 2023
-
-Granularity: Point
-
-Frequency: Biannually
-
-
 
 ---
 
