@@ -1,5 +1,132 @@
 # High Granular Datasets - India Data Portal
 
+## CGWB - Changes in Depth to Water Level
+
+Source: Ministry of Jal Shakti
+
+Sector: ['Climate and Weather']
+
+### CGWB - Changes in Depth to Water Level
+
+Granularity: Station
+
+Frequency: Quarterly
+
+Central Ground Water Board monitors groundwater levels throughout the country on a regional scale, four times in a year during the months of March/April/May, August, November and January.This data is collected under the mode of acquisition “Manual”.  For monitoring of ground water level, CGWB has a dedicated network of about 25000 monitoring stations called “National Hydrograph Network Stations (NHNS)”, which comprises open dug wells and purpose-built bore/tube wells for water level monitoring called piezometers.  Similarly, CGWB has initiated automatic high frequency monitoring by installing Digital Water Level Recorders (DWLR) with telemetry systems under the National Hydrology Project (NHP).   This data is collected under the mode of acquisition “Telemetry”.
+| Variable Name   | Variable Description       | Variable Type | Unit of Measurement |
+|-----------------|----------------------------|---------------|---------------------|
+| date            | Date                       | DATE          |                     |
+| state_name      | State Name                 | TEXT          |                     |
+| state_code      | State Code                 | TEXT          |                     |
+| district_name   | District Name              | TEXT          |                     |
+| district_code   | District Code              | TEXT          |                     |
+| station_name    | Station Name               | TEXT          |                     |
+| latitude        | Latitude                   | NUMERIC       |                     |
+| longitude       | Longitude                  | NUMERIC       |                     |
+| basin           | Basin                      | TEXT          |                     |
+| sub_basin       | Sub Basin                  | TEXT          |                     |
+| source          | Source                     | TEXT          |                     |
+| currentlevel    | Depth to Water Level       | NUMERIC       | Meters              |
+| level_diff      | Level Difference           | NUMERIC       |                     |
+
+---
+
+## Daily Fertilizer Sales
+
+Source: Ministry of Chemicals and Fertilizers
+
+Sector: ['Food and Agriculture']
+
+### Daily Fertilizer Sales
+
+Granularity: District
+
+Frequency: Daily
+
+The dataset provides information on the daily sales of different types of fertilizers by retail outlets in India. This dataset is valuable for farmers, policymakers, researchers, and other stakeholders in the agriculture sector. Farmers can use the information to plan their fertilizer purchases and ensure that they have access to the fertilizers they need. Policymakers can use the data to monitor the supply and demand of fertilizers in different regions of the country and make informed decisions on fertilizer subsidy policies. Researchers can use the data to study the fertilizer market and identify trends and patterns in fertilizer sales. | Variable Name            | Variable Description                         | Variable Type | Unit of Measurement |
+|--------------------------|----------------------------------------------|---------------|---------------------|
+| date                     | Date                                         | DATE          |                     |
+| state_name               | Name of State                                | TEXT          |                     |
+| state_code               | State Code                                   | TEXT          |                     |
+| district_name            | Name of District                             | TEXT          |                     |
+| district_code            | District Code                                | TEXT          |                     |
+| retailer_name            | Name of Retailer                             | TEXT          |                     |
+| retailer_id              | Retailer ID                                  | TEXT          |                     |
+| attached_devices         | No of Attached PoS Devices                   | NUMERIC       |                     |
+| active                   | Active                                       | BOOLEAN       |                     |
+| opening_stock_reported   | Opening Stock Reported                       | BOOLEAN       |                     |
+| opening_stock            | Opening Stock (as on dry run or go live date)| NUMERIC       | Metric Tonnes        |
+| no_of_invoices_generated | No of Invoices Generated                     | NUMERIC       |                     |
+| no_of_sale_transaction   | No of Sales Transactions                     | NUMERIC       |                     |
+| quantity_sold            | Quantity Sold                                | NUMERIC       |                     |
+| n_quantity               | Quantity of Nitrogen Sold                    | NUMERIC       |                     |
+| p_quantity               | Quantity of Phosphorus Sold                  | NUMERIC       |                     |
+| k_quantity               | Quantity of Potassium Sold                   | NUMERIC       |                     |
+| s_quantity               | Quantity of Sulfur Sold                      | NUMERIC       |                     |
+
+---
+
+## Port Level Import Export
+
+Source: Directorate General of Commercial Intelligence and Statistics
+
+Sector: ['Commerce']
+
+### Port Level Import Export
+
+Granularity: State
+
+Frequency: Monthly
+
+The Port Level Import-Export Dataset provides comprehensive monthly data on imports and exports at the principal commodity level, recorded across various ports in India. It includes detailed information on volume, value (in USD and INR), and commodity types, categorized at the 2-digit HS code level. This dataset is a crucial resource for analyzing trade patterns, regional trade performance, and economic activity. It is particularly valuable for economists, policymakers, trade analysts, and researchers studying international trade, economic development, and market trends.  
+| Variable Name          | Variable Description                  | Variable Type | SubDataSet       |
+|------------------------|---------------------------------------|---------------|------------------|
+| month                  | Month                                 | DATE          |                  |
+| trade_type             | Trade Type                            | TEXT          | Import, Export   |
+| state_name             | State Name                            | TEXT          |                  |
+| state_code             | State Code                            | TEXT          |                  |
+| port                   | Port for Import                       | TEXT          |                  |
+| country                | Import Country                        | TEXT          |                  |
+| pc_code                | Principle Commodity Code              | TEXT          |                  |
+| commodity              | Commodity Name                        | TEXT          |                  |
+| units                  | Quantity Unit Measurement             | TEXT          |                  |
+| quantity               | Value of commodity quantity           | NUMERIC       |                  |
+| dollars_value          | Value of commodity quantity in USD    | NUMERIC       |                  |
+| inr_value              | Value of commodity quantity in INR    | NUMERIC       |                  |
+
+
+---
+
+## Daily Non-Renewable Power Generation
+
+Source: Ministry of Power
+
+Sector: ['Energy']
+
+### Daily Non-Renewable Power Generation
+
+Granularity: Power Station
+
+Frequency: Daily
+
+Power Generation data is taken from nuclear, thermal and hydro power stations across india. The data is collected on daily basis. It contains generation data by state, sector, power station type, individual power station and unit level. The data field includes installed capacity, day's power generaiton target, actual generation etc. for each power station.
+| Variable Name                              | Variable Description                        | Variable Type | Unit Of Measurement |
+|--------------------------------------------|---------------------------------------------|---------------|---------------------|
+| date                                       | Date                                        | DATE          |                     |
+| state_name                                 | State Name                                  | TEXT          |                     |
+| state_code                                 | State Code                                  | TEXT          |                     |
+| sector                                     | Sector of Power Station                     | TEXT          |                     |
+| power_station_type                         | Type of Power Station                       | TEXT          |                     |
+| power_station                              | Name of Power Station                       | TEXT          |                     |
+| power_station_unit                         | Power Station Unit                          | TEXT          |                     |
+| monitored_cap_in_mw                        | Total Monitored Capacity                    | NUMERIC       | Mega Watt           |
+| todays_power_generation_programe_in_mu     | Program of Today's Power Generation         | NUMERIC       | Mega Unit           |
+| todays_actual_power_generation_in_mu       | Today's Actual Power Generation             | NUMERIC       | Mega Unit           |
+
+[Dataset Summary](https://dev.indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
+
+---
+
 ## VAHAN Vehicle Registrations
 
 Source: Ministry of Road Transport and Highways
@@ -45,36 +172,6 @@ The "Exports and Imports of India" dataset provides a comprehensive view of trad
 
 ---
 
-## Daily Non-Renewable Power Generation
-
-Source: Ministry of Power
-
-Sector: ['Energy']
-
-### Daily Non-Renewable Power Generation
-
-Granularity: Power Station
-
-Frequency: Daily
-
-Power Generation data is taken from nuclear, thermal and hydro power stations across india. The data is collected on daily basis. It contains generation data by state, sector, power station type, individual power station and unit level. The data field includes installed capacity, day's power generaiton target, actual generation etc. for each power station.
-| Variable Name                          | Variable Description                    | Variable Type | Unit Of Measurement |
-|----------------------------------------|------------------------------------------|---------------|---------------------|
-| date                                   | Date                                     | DATE          |                     |
-| state_name                             | State Name                               | TEXT          |                     |
-| state_code                             | State Code                               | TEXT          |                     |
-| sector                                 | Sector of Power Station                  | TEXT          |                     |
-| power_station_type                     | Type of Power Station                    | TEXT          |                     |
-| power_station                           | Name of Power Station                    | TEXT          |                     |
-| power_station_unit                      | Power Station Unit                       | TEXT          |                     |
-| monitored_cap_in_mw                    | Total Monitored Capacity                 | NUMERIC       | Mega Watt           |
-| todays_power_generation_programe_in_mu | Program of Today's Power Generation      | NUMERIC       | Mega Unit           |
-| todays_actual_power_generation_in_mu   | Today's Actual Power Generation          | NUMERIC       | Mega Unit           |
-
-[Dataset Summary](https://dev.indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
-
----
-
 ## Bank Outlets and ATM's
 
 Source: Reserve Bank of India
@@ -115,38 +212,6 @@ The Banking Outlet section of the Reserve Bank of India's Database on Indian Eco
 | district_name        | District Name            | TEXT          |
 | subdistrict_code     | Sub District Code        | TEXT          |
 | subdistrict_name     | Sub District Name        | TEXT          |
-
-
----
-
-## CGWB - Changes in Depth to Water Level
-
-Source: Ministry of Jal Shakti
-
-Sector: ['Climate and Weather']
-
-### CGWB - Changes in Depth to Water Level
-
-Granularity: Station
-
-Frequency: Quarterly
-
-Central Ground Water Board monitors groundwater levels throughout the country on a regional scale, four times in a year during the months of March/April/May, August, November and January.This data is collected under the mode of acquisition “Manual”.  For monitoring of ground water level, CGWB has a dedicated network of about 25000 monitoring stations called “National Hydrograph Network Stations (NHNS)”, which comprises open dug wells and purpose-built bore/tube wells for water level monitoring called piezometers.  Similarly, CGWB has initiated automatic high frequency monitoring by installing Digital Water Level Recorders (DWLR) with telemetry systems under the National Hydrology Project (NHP).   This data is collected under the mode of acquisition “Telemetry”.
-| Variable Name    | Variable Description      | Variable Type | Unit Of Measurement |
-|------------------|---------------------------|---------------|---------------------|
-| date             | Date                      | Date          |                     |
-| state_name       | State Name                | TEXT          |                     |
-| state_code       | State Code                | TEXT          |                     |
-| district_name    | District Name             | TEXT          |                     |
-| district_code    | District Code             | TEXT          |                     |
-| station_name     | Station Name              | TEXT          |                     |
-| latitude         | Latitude                  | NUMERIC       |                     |
-| longitude        | Longitude                 | NUMERIC       |                     |
-| basin            | Basin                     | TEXT          |                     |
-| sub_basin        | Sub Basin                 | TEXT          |                     |
-| source           | Source                    | TEXT          |                     |
-| currentlevel     | Depth to Water Level      | NUMERIC       | Meters              |
-| level_diff       | Level Difference          | NUMERIC       |                     |
 
 
 ---
@@ -321,74 +386,6 @@ Frequency: Yearly
 | population                           | Population                                                  | NUMERIC      |                     | True                         |
 | sc_st_population                     | SC / ST Population                                           | NUMERIC      |                     | True                         |
 
-
-
----
-
-## Daily Fertilizer Sales
-
-Source: Ministry of Chemicals and Fertilizers
-
-Sector: ['Food and Agriculture']
-
-### Daily Fertilizer Sales
-
-Granularity: District
-
-Frequency: Daily
-
-The dataset provides information on the daily sales of different types of fertilizers by retail outlets in India. This dataset is valuable for farmers, policymakers, researchers, and other stakeholders in the agriculture sector. Farmers can use the information to plan their fertilizer purchases and ensure that they have access to the fertilizers they need. Policymakers can use the data to monitor the supply and demand of fertilizers in different regions of the country and make informed decisions on fertilizer subsidy policies. Researchers can use the data to study the fertilizer market and identify trends and patterns in fertilizer sales. 
-| Variable Name                  | Variable Description                                      | Variable Type | Unit of Measurement |
-|--------------------------------|----------------------------------------------------------|--------------|---------------------|
-| date                           | Date                                                    | Date         |                     |
-| state_name                     | Name of State                                          | TEXT         |                     |
-| state_code                     | State Code                                            | TEXT         |                     |
-| district_name                  | Name of District                                      | TEXT         |                     |
-| district_code                  | District Code                                         | TEXT         |                     |
-| retailer_name                  | Name of Retailer                                      | TEXT         |                     |
-| retailer_id                    | Retailer ID                                          | TEXT         |                     |
-| attached_devices               | No of Attached PoS Devices                           | NUMERIC      |                     |
-| active                         | Active                                               | BOOLEAN      |                     |
-| opening_stock_reported         | Opening Stock Reported                               | BOOLEAN      |                     |
-| opening_stock                  | Opening Stock (as on dry run or go live date)       | NUMERIC      | Metric Tonnes       |
-| no_of_invoices_generated       | No of Invoices Generated                            | NUMERIC      |                     |
-| no_of_sale_transaction         | No of Sales Transactions                            | NUMERIC      |                     |
-| quantity_sold                  | Quantity Sold                                       | NUMERIC      |                     |
-| n_quantity                     | Quantity of Nitrogen Sold                           | NUMERIC      |                     |
-| p_quantity                     | Quantity of Phosphorus Sold                         | NUMERIC      |                     |
-| k_quantity                     | Quantity of Potassium Sold                          | NUMERIC      |                     |
-| s_quantity                     | Quantity of Sulfur Sold                             | NUMERIC      |                     |
-
-
----
-
-## Port Level Import Export
-
-Source: Directorate General of Commercial Intelligence and Statistics
-
-Sector: ['Commerce']
-
-### Port Level Import Export
-
-Granularity: State
-
-Frequency: Monthly
-
-The Port Level Import-Export Dataset provides comprehensive monthly data on imports and exports at the principal commodity level, recorded across various ports in India. It includes detailed information on volume, value (in USD and INR), and commodity types, categorized at the 2-digit HS code level. This dataset is a crucial resource for analyzing trade patterns, regional trade performance, and economic activity. It is particularly valuable for economists, policymakers, trade analysts, and researchers studying international trade, economic development, and market trends.  
-| Variable Name    | Variable Description                        | Variable Type | SubDataSet       |
-|-----------------|--------------------------------------------|--------------|-----------------|
-| month          | Month                                      | Date         |                 |
-| trade_type     | Trade Type                                 | TEXT         | Import, Export |
-| state_name     | State Name                                 | TEXT         |                 |
-| state_code     | State Code                                 | TEXT         |                 |
-| port           | Port for Import                           | TEXT         |                 |
-| country        | Import Country                            | TEXT         |                 |
-| pc_code        | Principle Commodity Code                  | TEXT         |                 |
-| commodity      | Commodity Name                            | TEXT         |                 |
-| units         | Quantity Unit Measurement                 | TEXT         |                 |
-| quantity       | Value of commodity quantity              | NUMERIC      |                 |
-| dollars_value  | Value of commodity quantity in USD       | NUMERIC      |                 |
-| inr_value      | Value of commodity quantity in INR       | NUMERIC      |                 |
 
 
 ---
