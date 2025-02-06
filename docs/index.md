@@ -1,5 +1,42 @@
 # High Granular Datasets - India Data Portal
 
+## Daily Fertilizer Sales
+
+Source: Ministry of Chemicals and Fertilizers
+
+Sector: ['Food and Agriculture']
+
+### Daily Fertilizer Sales
+
+Granularity: District
+
+Frequency: Daily
+
+The dataset provides information on the daily sales of different types of fertilizers by retail outlets in India. This dataset is valuable for farmers, policymakers, researchers, and other stakeholders in the agriculture sector. Farmers can use the information to plan their fertilizer purchases and ensure that they have access to the fertilizers they need. Policymakers can use the data to monitor the supply and demand of fertilizers in different regions of the country and make informed decisions on fertilizer subsidy policies. Researchers can use the data to study the fertilizer market and identify trends and patterns in fertilizer sales. 
+
+| Variable Name              | Variable Description              | Variable Type | Unit of Measurement |
+|----------------------------|-----------------------------------|---------------|---------------------|
+| date                       | Date                              | DATE          |                     |
+| state_name                 | Name of State                     | TEXT          |                     |
+| state_code                 | State Code                        | TEXT          |                     |
+| district_name              | Name of District                  | TEXT          |                     |
+| district_code              | District Code                     | TEXT          |                     |
+| retailer_name              | Name of Retailer                  | TEXT          |                     |
+| retailer_id                | Retailer ID                        | TEXT          |                     |
+| attached_devices           | No of Attached PoS Devices        | NUMERIC       |                     |
+| active                     | Active                            | BOOLEAN       |                     |
+| opening_stock_reported     | Opening Stock Reported            | BOOLEAN       |                     |
+| opening_stock              | Opening Stock (as on dry run or go live date) | NUMERIC       | Metric Tonnes       |
+| no_of_invoices_generated   | No of Invoices Generated          | NUMERIC       |                     |
+| no_of_sale_transaction     | No of Sales Transactions          | NUMERIC       |                     |
+| quantity_sold              | Quantity Sold                     | NUMERIC       |                     |
+| n_quantity                 | Quantity of Nitrogen Sold         | NUMERIC       |                     |
+| p_quantity                 | Quantity of Phosphorus Sold       | NUMERIC       |                     |
+| k_quantity                 | Quantity of Potassium Sold        | NUMERIC       |                     |
+| s_quantity                 | Quantity of Sulfur Sold           | NUMERIC       |                     |
+
+---
+
 ## CGWB - Changes in Depth to Water Level
 
 Source: Ministry of Jal Shakti
@@ -28,41 +65,6 @@ Central Ground Water Board monitors groundwater levels throughout the country on
 | source          | Source                     | TEXT          |                     |
 | currentlevel    | Depth to Water Level       | NUMERIC       | Meters              |
 | level_diff      | Level Difference           | NUMERIC       |                     |
-
----
-
-## Daily Fertilizer Sales
-
-Source: Ministry of Chemicals and Fertilizers
-
-Sector: ['Food and Agriculture']
-
-### Daily Fertilizer Sales
-
-Granularity: District
-
-Frequency: Daily
-
-The dataset provides information on the daily sales of different types of fertilizers by retail outlets in India. This dataset is valuable for farmers, policymakers, researchers, and other stakeholders in the agriculture sector. Farmers can use the information to plan their fertilizer purchases and ensure that they have access to the fertilizers they need. Policymakers can use the data to monitor the supply and demand of fertilizers in different regions of the country and make informed decisions on fertilizer subsidy policies. Researchers can use the data to study the fertilizer market and identify trends and patterns in fertilizer sales. | Variable Name            | Variable Description                         | Variable Type | Unit of Measurement |
-|--------------------------|----------------------------------------------|---------------|---------------------|
-| date                     | Date                                         | DATE          |                     |
-| state_name               | Name of State                                | TEXT          |                     |
-| state_code               | State Code                                   | TEXT          |                     |
-| district_name            | Name of District                             | TEXT          |                     |
-| district_code            | District Code                                | TEXT          |                     |
-| retailer_name            | Name of Retailer                             | TEXT          |                     |
-| retailer_id              | Retailer ID                                  | TEXT          |                     |
-| attached_devices         | No of Attached PoS Devices                   | NUMERIC       |                     |
-| active                   | Active                                       | BOOLEAN       |                     |
-| opening_stock_reported   | Opening Stock Reported                       | BOOLEAN       |                     |
-| opening_stock            | Opening Stock (as on dry run or go live date)| NUMERIC       | Metric Tonnes        |
-| no_of_invoices_generated | No of Invoices Generated                     | NUMERIC       |                     |
-| no_of_sale_transaction   | No of Sales Transactions                     | NUMERIC       |                     |
-| quantity_sold            | Quantity Sold                                | NUMERIC       |                     |
-| n_quantity               | Quantity of Nitrogen Sold                    | NUMERIC       |                     |
-| p_quantity               | Quantity of Phosphorus Sold                  | NUMERIC       |                     |
-| k_quantity               | Quantity of Potassium Sold                   | NUMERIC       |                     |
-| s_quantity               | Quantity of Sulfur Sold                      | NUMERIC       |                     |
 
 ---
 
