@@ -1,5 +1,38 @@
 # High Granular Datasets - India Data Portal
 
+## Mahatma Gandhi National Rural Employment Guarantee Act
+
+Source: Ministry of Rural Development
+
+Sector: ['Rural Development']
+
+### MGNREGA
+
+Granularity: Gram Panchayat
+
+Frequency: Yearly
+
+The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) dataset provides detailed information on the implementation of the MGNREGA program in India. The MGNREGA program is a flagship social welfare program of the Indian government that guarantees 100 days of employment to every rural household in the country, with a special focus on the poorest and most marginalized communities. The dataset includes information on the number of households and individuals who have benefited from the program, the amount of funds disbursed, and the types of work undertaken by program beneficiaries. The dataset is organized according to various dimensions, such as state, district, and financial year, making it easy for users to filter and analyze the data according to their specific needs. The dataset is relevant to a wide range of stakeholders, including government officials, social scientists, policy think tanks, media houses, and newsrooms. The data is collected and maintained by the Ministry of Rural Development, Government of India, and is available for download on the MGNREGA website. The dataset is a valuable resource for researchers, policymakers, and journalists interested in issues related to rural employment, poverty reduction, social inclusion, and sustainable development in India.
+
+
+---
+
+## Pradhan Mantri Awaas Yojana - Gramin
+
+Source: Ministry of Rural Development
+
+Sector: ['Government Schemes']
+
+### Pradhan Mantri Awaas Yojana - Gramin
+
+Granularity: Gram Panchayat
+
+Frequency: Other
+
+The dataset provides an in-depth view of the Pradhan Mantri Awaas Yojana - Gramin (PMAY-G), illustrating the scheme's progress and impact at the granular level of Gram Panchayats. It includes a multi-year record of houses sanctioned and completed, with detailed breakdowns by social categories to facilitate nuanced policy assessment and socio-economic analyses. The data highlights geographical variances and temporal trends, serving as an invaluable resource for policymakers, social researchers, and the general public interested in the effectiveness and inclusivity of rural housing developments under government schemes.
+
+---
+
 ## Daily Fertilizer Sales
 
 Source: Ministry of Chemicals and Fertilizers
@@ -285,110 +318,6 @@ The Mission Antyodaya dataset offers an extensive overview of village-level infr
 | veterinary_dist         | Nearest Veterinary Clinic                        | TEXT          |
 | drainage                | Drainage Facilities                              | TEXT          |
 | pcomm_pasture           | Common Pastures                                  | TEXT          |
-
----
-
-## SHG Financial and Member Profile Details
-
-Source: Ministry of Rural Development
-
-Sector: ['Financial Inclusion', 'Rural Development']
-
-### SHG Financial and Member Profile Details
-
-Granularity: SHG
-
-Frequency: Other
-
-This dataset provides an extensive and nuanced profile of Self-Help Groups (SHGs) across diverse geographic and socio-economic contexts. It includes detailed information on the SHG's location, specifying the state, district, block, Gram Panchayat, and village, alongside a unique SHG identifier and its name. Key administrative details such as the date of formation, type of SHG, promoting entity, and banking informationâ€”including the bank name, branch, and account opening dateâ€”are also recorded. The dataset meticulously documents membership demographics, including total membership counts, gender distribution, and classifications by social categories such as Scheduled Caste, Scheduled Tribe, Other Backward Classes, and Other Social Categories. Additionally, it captures data on members with disabilities, both self-disabled and those with disabled family members, and provides insights into religious affiliations (Hindu, Christian, Muslim, Sikh, Buddhist, Jain, Parsi) and economic status, distinguishing between Above Poverty Line (APL), Below Poverty Line (BPL), and Poorest of the Poor under the PIP category.
-
-Metadata -
- | Variable Name                     | Variable Description                                           | Variable Type | Unit Of Measurement | 
-|-----------------------------------|---------------------------------------------------------------|---------------|---------------------| 
-| state_name                        | State Name                                                    | TEXT          |                     | 
-| district_name                     | District Name                                                 | TEXT          |                     | 
-| block_name                        | Block Name                                                    | TEXT          |                     | 
-| gp_name                           | Gram Panchayat Name                                           | TEXT          |                     | 
-| village_name                      | Village Name                                                  | TEXT          |                     | 
-| shg_name                          | Self Help Group Name                                          | TEXT          |                     | 
-| shg_id                            | Self Help Group ID                                            | TEXT          |                     | 
-| formation_date                    | Date of Formation of SHG                                      | DATE          |                     | 
-| shg_type                          | Type of SHG                                                    | TEXT          |                     | 
-| promoted_by                       | SHG Promoted By                                               | TEXT          |                     | 
-| bank_name                         | Name of the bank where SHG is registered                      | TEXT          |                     | 
-| bank_branch                       | Name of the bank branch where SHG is registered               | TEXT          |                     | 
-| acc_opening_date                  | Date of opening of Bank Account                               | TEXT          |                     | 
-| total_members                     | Number of members in SHG                                      | NUMERIC       | Numerical           | 
-| female                            | Number of female members in SHG                               | NUMERIC       | Numerical           | 
-| male                              | Number of male members in SHG                                 | NUMERIC       | Numerical           | 
-| sc                                | Number of Scheduled Caste members in SHG                      | NUMERIC       | Numerical           | 
-| st                                | Number of Scheduled Tribe members in SHG                      | NUMERIC       | Numerical           | 
-| obc                               | Number of members belonging to Other Backward Classes         | NUMERIC       | Numerical           | 
-| other_category                    | Number of members belonging to Other Social Categories        | NUMERIC       | Numerical           | 
-| disabled                          | Number of members with disabilities                           | NUMERIC       | Numerical           | 
-| family_mem_disabled               | Number of members with a disabled family member               | NUMERIC       | Numerical           | 
-| hindu                             | Number of Hindu members                                       | NUMERIC       | Numerical           | 
-| christian                         | Number of Christian members                                   | NUMERIC       | Numerical           | 
-| muslim                            | Number of Muslim members                                      | NUMERIC       | Numerical           | 
-| sikh                              | Number of Sikh members                                        | NUMERIC       | Numerical           | 
-| buddhist                          | Number of Buddhist members                                    | NUMERIC       | Numerical           | 
-| jain                              | Number of Jain members                                        | NUMERIC       | Numerical           | 
-| parsi                             | Number of Parsi members                                       | NUMERIC       | Numerical           | 
-| apl                               | Number of members categorized as Above Poverty Line (APL)     | NUMERIC       | Numerical           | 
-| bpl                               | Number of members categorized as Below Poverty Line (BPL)     | NUMERIC       | Numerical           | 
-| pop                               | Number of members categorized as Poorest of the Poor under PIP category | NUMERIC       | Numerical           | 
-| poor                              | Number of members categorized as Poor under PIP category      | NUMERIC       | Numerical           | 
-
----
-
-## Road Connectivity-PMGSY
-
-Source: Ministry of Rural Development
-
-Sector: ['Rural Development', 'Socio Economic']
-
-### Road Connectivity-PMGSY
-
-Granularity: Road
-
-Frequency: Yearly
-
-: The dataset provides comprehensive financial and physical progress information for all road projects that are being implemented under the Pradhan Mantri Gram Sadak Yojana (PMSGY) in India. PMSGY is a government-led initiative aimed at connecting all unconnected habitations in rural areas with all-weather roads, which is critical to the socio-economic development of rural India. The dataset includes information such as the total cost of the project, the amount of funds allocated, the expenditure incurred so far, the length of the road constructed, the percentage of the road completed, and the quality of the construction work. This information can be used to monitor the progress of each project and to identify any areas where improvements are needed. 
-| Variable Name                         | Variable Description                                            | Variable Type | Unit Of Measurement | Constant Unit / Changing Unit |
-|--------------------------------------|----------------------------------------------------------------|--------------|---------------------|------------------------------|
-| state_name                           | State                                                          | TEXT         |                     | True                         |
-| state_code                           | State Code                                                     | TEXT         |                     | True                         |
-| district_name                        | District                                                       | TEXT         |                     | True                         |
-| district_code                        | District Code                                                  | TEXT         |                     | True                         |
-| block_name                           | Block                                                          | TEXT         |                     | True                         |
-| block_code                           | Block Code                                                     | TEXT         |                     | True                         |
-| habitation_name                      | Habitation Name                                                | TEXT         |                     | True                         |
-| road_name                            | Road Name                                                      | TEXT         |                     | True                         |
-| packages                             | Packages from which the funds were sanctioned                  | TEXT         |                     | True                         |
-| upgrade_or_new                       | Whether the project is an upgrade of an existing road or a new road? | TEXT         |                     | True                         |
-| surface_type                         | Type of surface                                                | TEXT         |                     | True                         |
-| physical_status                      | Status as per physical progress report                        | TEXT         |                     | True                         |
-| financial_status                     | Status as per financial progress report                       | TEXT         |                     | True                         |
-| contractor_name                      | Contractor Name                                                | TEXT         |                     | True                         |
-| company_name                         | Company Name                                                   | TEXT         |                     | True                         |
-| sanctioned_year                      | Sanctioned Year                                               | TEXT         |                     | True                         |
-| work_award_date                      | Work Award Date                                               | DATE         |                     | True                         |
-| completion_date                      | Work Completion Date                                          | DATE         |                     | True                         |
-| length                               | Length of the Road                                            | NUMERIC      | Kilometers          | True                         |
-| pavement_cost                        | Pavement Cost                                                 | NUMERIC      | Lakhs              | True                         |
-| no_of_cross_drainage_works           | Number of Cross Drainage Works                               | NUMERIC      |                     | True                         |
-| cross_drainage_work_cost             | Cross Drainage Work Cost                                     | NUMERIC      | Lakhs              | True                         |
-| long_span_bridge_cost                | Long Span Bridge Cost                                        | NUMERIC      | Lakhs              | True                         |
-| long_span_bridge_state_cost          | Long Span Bridge State Cost                                  | NUMERIC      | Lakhs              | True                         |
-| protection_work                      | Protection Work                                              | NUMERIC      | Lakhs              | True                         |
-| other_works                          | Other Works                                                  | NUMERIC      | Lakhs              | True                         |
-| completed_length                     | Completed Length                                             | NUMERIC      | Kilometers          | True                         |
-| expenditure_till_date                | Expenditure Till Date                                        | NUMERIC      | Lakhs              | True                         |
-| total_cost                           | Total Cost                                                  | NUMERIC      | Lakhs              | True                         |
-| population                           | Population                                                  | NUMERIC      |                     | True                         |
-| sc_st_population                     | SC / ST Population                                           | NUMERIC      |                     | True                         |
-
-
 
 ---
 
