@@ -83,6 +83,7 @@ Granularity: Station
 Frequency: Quarterly
 
 Central Ground Water Board monitors groundwater levels throughout the country on a regional scale, four times in a year during the months of March/April/May, August, November and January.This data is collected under the mode of acquisition “Manual”.  For monitoring of ground water level, CGWB has a dedicated network of about 25000 monitoring stations called “National Hydrograph Network Stations (NHNS)”, which comprises open dug wells and purpose-built bore/tube wells for water level monitoring called piezometers.  Similarly, CGWB has initiated automatic high frequency monitoring by installing Digital Water Level Recorders (DWLR) with telemetry systems under the National Hydrology Project (NHP).   This data is collected under the mode of acquisition “Telemetry”.
+
 | Variable Name   | Variable Description       | Variable Type | Unit of Measurement |
 |-----------------|----------------------------|---------------|---------------------|
 | date            | Date                       | DATE          |                     |
@@ -113,7 +114,8 @@ Granularity: State
 
 Frequency: Monthly
 
-The Port Level Import-Export Dataset provides comprehensive monthly data on imports and exports at the principal commodity level, recorded across various ports in India. It includes detailed information on volume, value (in USD and INR), and commodity types, categorized at the 2-digit HS code level. This dataset is a crucial resource for analyzing trade patterns, regional trade performance, and economic activity. It is particularly valuable for economists, policymakers, trade analysts, and researchers studying international trade, economic development, and market trends.  
+The Port Level Import-Export Dataset provides comprehensive monthly data on imports and exports at the principal commodity level, recorded across various ports in India. It includes detailed information on volume, value (in USD and INR), and commodity types, categorized at the 2-digit HS code level. This dataset is a crucial resource for analyzing trade patterns, regional trade performance, and economic activity. It is particularly valuable for economists, policymakers, trade analysts, and researchers studying international trade, economic development, and market trends.
+
 | Variable Name          | Variable Description                  | Variable Type | SubDataSet       |
 |------------------------|---------------------------------------|---------------|------------------|
 | month                  | Month                                 | DATE          |                  |
@@ -145,6 +147,7 @@ Granularity: Power Station
 Frequency: Daily
 
 Power Generation data is taken from nuclear, thermal and hydro power stations across india. The data is collected on daily basis. It contains generation data by state, sector, power station type, individual power station and unit level. The data field includes installed capacity, day's power generaiton target, actual generation etc. for each power station.
+
 | Variable Name                              | Variable Description                        | Variable Type | Unit Of Measurement |
 |--------------------------------------------|---------------------------------------------|---------------|---------------------|
 | date                                       | Date                                        | DATE          |                     |
@@ -220,6 +223,7 @@ Granularity: Point
 Frequency: Other
 
 The Banking Outlet section of the Reserve Bank of India's Database on Indian Economy (DBIE) provides comprehensive data on the distribution and reach of banking services across India. It includes the location (latitude and longitude) of banking outlets, along with associated information such as bank name, bank type (Branch, CSP, Office, Business Correspondent, Digital Banking Unit [DBU], NAIO), bank group (e.g., foreign, public, private, payment banks, regional, local), their IFSC codes, date of opening, population group (metropolitan, urban, rural, semi-urban) associated with the outlet, and whether the outlet is a domestic or overseas branch. This dataset supports analyses of financial inclusion, accessibility, and the expansion of banking infrastructure.  
+
 | Variable Name        | Variable Description     | Variable Type |
 |----------------------|--------------------------|---------------|
 | region               | Region                   | TEXT          |

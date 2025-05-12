@@ -2,7 +2,7 @@
 name = "high-value-datasets"
 version = "0.1.0"
 description = "repository to continuously update the high value datasets in the India Data Portal project"
-authors = ["suryakandukuri <sudham.surya@gmail.com>"]
+authors = ["gursharan-info <gursharan.info@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
