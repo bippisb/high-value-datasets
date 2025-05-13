@@ -4,7 +4,7 @@
 
 Source: Ministry of Rural Development
 
-Sector: ['Rural Development']
+Sectors: Rural Development
 
 ### MGNREGA
 
@@ -61,6 +61,12 @@ The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) dataset pro
 | total_active_workers                            | Total number of active workers                                               | Numeric        | Lakh                 |
 | active_workers_women                            | Number of active female workers                                              | Numeric        | Lakh                 |
 
+[Dataset Summary: Category Wise Workers](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_category_wise_worker-gp-yr-aaa#dataset-summary)
+
+[Dataset Summary: Employment Generated](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_employment_generated-gp-yr-aaa#dataset-summary)
+
+[Dataset Summary: Women Joint Accounts](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_women_joint_acc-gp-yr-aaa#dataset-summary)
+
 
 
 ---
@@ -69,7 +75,7 @@ The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) dataset pro
 
 Source: Ministry of Power
 
-Sector: ['Energy']
+Sectors: Energy
 
 ### Daily Coal Stocks
 
@@ -103,6 +109,7 @@ Coal Stocks data is taken from thermal power stations across India. The data is 
 | is_critical                              | Critical or Super Critical Status                        | TEXT           |                           |
 | remarks                                  | Reasons for Critical in Remarks                          | TEXT           |                           |
 
+[Dataset Summary: Daily Coal Stocks](https://indiadataportal.com/p/power/r/mop-coal_stock-pl-dl-aaa#dataset-summary)
 
 ---
 
@@ -110,7 +117,7 @@ Coal Stocks data is taken from thermal power stations across India. The data is 
 
 Source: Ministry of Rural Development
 
-Sector: ['Government Schemes']
+Sectors: Government Schemes
 
 ### Pradhan Mantri Awaas Yojana - Gramin
 
@@ -173,7 +180,7 @@ The dataset provides an in-depth view of the Pradhan Mantri Awaas Yojana - Grami
 
 Source: Directorate General of Commercial Intelligence and Statistics
 
-Sector: ['Commerce']
+Sectors: Commerce
 
 ### Exports and Imports of India
 
@@ -200,7 +207,7 @@ The "Exports and Imports of India" dataset provides a comprehensive view of trad
 | value_rs          | Value of commodity quantity in INR          | NUMERIC        | Lacs                     |
 | value_dl          | Value of commodity quantity in US Dollars   | NUMERIC        | Million                  |
 
-
+[Dataset Collection](https://indiadataportal.com/p/export-trade-statistics)
 
 ---
 
@@ -208,7 +215,7 @@ The "Exports and Imports of India" dataset provides a comprehensive view of trad
 
 Source: Ministry of Rural Development
 
-Sector: ['Rural Development', 'Socio Economic']
+Sectors: Rural Development, Socio Economic
 
 ### Road Connectivity-PMGSY
 
@@ -260,7 +267,7 @@ Frequency: Yearly
 
 Source: Ministry of Rural Development
 
-Sector: ['Financial Inclusion', 'Rural Development']
+Sectors: Financial Inclusion, Rural Development
 
 ### SHG Financial and Member Profile Details
 
@@ -313,7 +320,7 @@ This dataset provides an extensive and nuanced profile of Self-Help Groups (SHGs
 
 Source: Reserve Bank of India
 
-Sector: ['Banking', 'Economy', 'Financial Inclusion']
+Sectors: Banking, Economy, Financial Inclusion
 
 ### Bank Outlets and ATM's
 
@@ -358,7 +365,7 @@ The Banking Outlet section of the Reserve Bank of India's Database on Indian Eco
 
 Source: Directorate General of Commercial Intelligence and Statistics
 
-Sector: ['Commerce']
+Sectors: Commerce
 
 ### Port Level Import Export
 
@@ -390,7 +397,7 @@ The Port Level Import-Export Dataset provides comprehensive monthly data on impo
 
 Source: India Water Resources Information System
 
-Sector: ['Climate and Weather']
+Sectors: Climate and Weather
 
 ### CGWB - Changes in Depth to Water Level
 
@@ -422,7 +429,7 @@ Central Ground Water Board monitors groundwater levels throughout the country on
 
 Source: Ministry of Power
 
-Sector: ['Energy']
+Sectors: Energy
 
 ### Daily Non-Renewable Power Generation
 
