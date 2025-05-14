@@ -452,7 +452,7 @@ Power Generation data is taken from nuclear, thermal and hydro power stations ac
 | todays_power_generation_programe_in_mu     | Program of Today's Power Generation         | NUMERIC       | Mega Unit           |
 | todays_actual_power_generation_in_mu       | Today's Actual Power Generation             | NUMERIC       | Mega Unit           |
 
-[Dataset Summary](https://dev.indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
+[Dataset Summary](https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
 
 ---
 
