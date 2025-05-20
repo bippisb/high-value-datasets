@@ -27,6 +27,7 @@ The Port Level Import-Export Dataset provides comprehensive monthly data on impo
 | dollars_value          | Value of commodity quantity in USD    | NUMERIC       |                  |
 | inr_value              | Value of commodity quantity in INR    | NUMERIC       |                  |
 
+
 Granularity: State
 
 Frequency: Monthly
