@@ -9,8 +9,6 @@ Sector: Commerce
 ### Port Level Import Export
 
 The Port Level Import-Export Dataset provides comprehensive monthly data on imports and exports at the principal commodity level, recorded across various ports in India. It includes detailed information on volume, value (in USD and INR), and commodity types, categorized at the 2-digit HS code level. This dataset is a crucial resource for analyzing trade patterns, regional trade performance, and economic activity. It is particularly valuable for economists, policymakers, trade analysts, and researchers studying international trade, economic development, and market trends. 
-<details close>
-<summary> Metadata</summary>
 
 | Variable Name          | Variable Description                  | Variable Type | SubDataSet       |
 |------------------------|---------------------------------------|---------------|------------------|
@@ -27,7 +25,6 @@ The Port Level Import-Export Dataset provides comprehensive monthly data on impo
 | dollars_value          | Value of commodity quantity in USD    | NUMERIC       |                  |
 | inr_value              | Value of commodity quantity in INR    | NUMERIC       |                  |
 
-
 Granularity: State
 
 Frequency: Monthly
@@ -36,7 +33,6 @@ Years Covered: 2018-2024
 
 Data Retrival Date: 16-09-2024
 ---
-</details>
 
 ## Pradhan Mantri Awaas Yojana - Gramin
 
