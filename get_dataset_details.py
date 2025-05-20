@@ -9,14 +9,21 @@ import os
 API_KEY = os.getenv("CKAN_API_KEY")    
 
 # Get response from api_url
-api_url = "https://ckandev.indiadataportal.com/api/3/action/organization_show?id=high-value-datasets&include_datasets=True"
+# api_url = "https://ckandev.indiadataportal.com/api/3/action/organization_show?id=high-value-datasets&include_datasets=True&limit=100"
 headers = {
     'Content-Type': 'application/json',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
     "Authorization": f"{API_KEY}"
 }
 # Make the request
-response = requests.get(api_url, headers=headers)
+# response = requests.get(api_url, headers=headers)
+
+search_url = "https://ckandev.indiadataportal.com/api/3/action/package_search"
+params = {
+    "fq": "organization:high-value-datasets",
+    "rows": 100  # or higher if needed
+}
+response = requests.get(search_url, headers=headers, params=params)
 
 if response.status_code != 200:
     print(f"Error: Received HTTP {response.status_code}")
@@ -33,7 +40,7 @@ markdown_file = 'docs/index.md'
 
 # Ensure the request was successful
 if response.status_code == 200 and json_data.get('success'):
-    packages = json_data['result']['packages']  # Extract the list of packages from the JSON response
+    packages = json_data['result']['results']  # Extract the list of packages from the JSON response
     
     # Open the file for writing
     with open(markdown_file, 'w') as file:
@@ -49,6 +56,8 @@ if response.status_code == 200 and json_data.get('success'):
             package_url = f"https://dev.indiadataportal.com/p/{package_name}"
             source = package.get('source_name', 'Not specified')
             sector = package.get('sector', 'Not specified')
+            if isinstance(sector, list):
+                sector = ', '.join(sector)
             file.write(f"## {package_title}\n\n")
             # file.write(f"{package_description}\n\n")
             # file.write(f"[IDP Link]({package_url})\n\n")
@@ -65,16 +74,24 @@ if response.status_code == 200 and json_data.get('success'):
                 resources = json_data['result']['resources']  # Extract the list of resources from the JSON response
                 for resource in resources:
                     resource_name = resource['name']
-                    resource_description = resource.get('description', package_description)
+                    resource_description = resource.get('description', package_description).strip()
+                    resource_description = resource_description.replace('\r\n', '\n')
                     granularity = resource.get('granularity', 'Not specified')
                     frequency = resource.get('frequency', 'Not specified')
+                    years_covered = resource.get('years_covered', 'Not specified')
+                    data_retrival_date = resource.get('data_retreival_date', 'Not specified')
+                    # Convert the data_retrival_date to dd-mm-yyyy format
+                    if data_retrival_date != 'Not specified':
+                        data_retrival_date = pd.to_datetime(data_retrival_date).strftime('%d-%m-%Y')
                     
-                    # print(f"package_name: {package_name}, resource_name: {resource_name}, resource_description: {package_description}, granularity: {granularity}, frequency: {frequency} \n\n")
+                    # print(f"package_name: {package_name}, resource_name: {resource_name}, granularity: {granularity}, frequency: {frequency}")
                     # resource_url = f"https://dev.indiadataportal.com/p/{package_name}/r/{resource_name}"
                     file.write(f"### {resource_name}\n\n")
+                    file.write(f"{resource_description}\n\n")
                     file.write(f"Granularity: {granularity}\n\n")
                     file.write(f"Frequency: {frequency}\n\n")
-                    file.write(f"{resource_description}\n\n")
+                    file.write(f"Years Covered: {years_covered}\n\n")
+                    file.write(f"Data Retrival Date: {data_retrival_date}\n\n")
                     # file.write(f"[IDP Link]({resource_url})\n\n")
                     file.write(f"---\n\n")
         # write "please reach out to gursharan_sigh@isb.edu if you need any of the dataset"
