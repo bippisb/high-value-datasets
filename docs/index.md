@@ -171,11 +171,7 @@ Data Retrival Date: 31-08-2023
 
 ---
 
-[Dataset Summary: Category Wise Workers](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_category_wise_worker-gp-yr-aaa#dataset-summary)
-
-[Dataset Summary: Employment Generated](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_employment_generated-gp-yr-aaa#dataset-summary)
-
-[Dataset Summary: Women Joint Accounts](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_women_joint_acc-gp-yr-aaa#dataset-summary)
+[Dataset Collection](https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act)
 
 ## UDISE
 
@@ -342,7 +338,7 @@ Sector: Rural Development, Socio Economic
 
 ### Road Connectivity-PMGSY
 
-: The dataset provides comprehensive financial and physical progress information for all road projects that are being implemented under the Pradhan Mantri Gram Sadak Yojana (PMSGY) in India. PMSGY is a government-led initiative aimed at connecting all unconnected habitations in rural areas with all-weather roads, which is critical to the socio-economic development of rural India. The dataset includes information such as the total cost of the project, the amount of funds allocated, the expenditure incurred so far, the length of the road constructed, the percentage of the road completed, and the quality of the construction work. This information can be used to monitor the progress of each project and to identify any areas where improvements are needed. 
+The dataset provides comprehensive financial and physical progress information for all road projects that are being implemented under the Pradhan Mantri Gram Sadak Yojana (PMSGY) in India. PMSGY is a government-led initiative aimed at connecting all unconnected habitations in rural areas with all-weather roads, which is critical to the socio-economic development of rural India. The dataset includes information such as the total cost of the project, the amount of funds allocated, the expenditure incurred so far, the length of the road constructed, the percentage of the road completed, and the quality of the construction work. This information can be used to monitor the progress of each project and to identify any areas where improvements are needed. 
 
 
 | Variable Name                         | Variable Description                                            | Variable Type | Unit Of Measurement | Constant Unit / Changing Unit |
@@ -397,7 +393,7 @@ Sector: Financial Inclusion, Rural Development
 
 ### SHG Financial and Member Profile Details
 
-This dataset provides an extensive and nuanced profile of Self-Help Groups (SHGs) across diverse geographic and socio-economic contexts. It includes detailed information on the SHG's location, specifying the state, district, block, Gram Panchayat, and village, alongside a unique SHG identifier and its name. Key administrative details such as the date of formation, type of SHG, promoting entity, and banking information—including the bank name, branch, and account opening date—are also recorded. The dataset meticulously documents membership demographics, including total membership counts, gender distribution, and classifications by social categories such as Scheduled Caste, Scheduled Tribe, Other Backward Classes, and Other Social Categories. Additionally, it captures data on members with disabilities, both self-disabled and those with disabled family members, and provides insights into religious affiliations (Hindu, Christian, Muslim, Sikh, Buddhist, Jain, Parsi) and economic status, distinguishing between Above Poverty Line (APL), Below Poverty Line (BPL), and Poorest of the Poor under the PIP category.
+This dataset provides an extensive and nuanced profile of Self-Help Groups (SHGs) across diverse geographic and socio-economic contexts. It includes detailed information on the SHG's location, specifying the state, district, block, Gram Panchayat, and village, alongside a unique SHG identifier and its name. Key administrative details such as the date of formation, type of SHG, promoting entity, and banking information-including the bank name, branch, and account opening date-are also recorded. The dataset meticulously documents membership demographics, including total membership counts, gender distribution, and classifications by social categories such as Scheduled Caste, Scheduled Tribe, Other Backward Classes, and Other Social Categories. Additionally, it captures data on members with disabilities, both self-disabled and those with disabled family members, and provides insights into religious affiliations (Hindu, Christian, Muslim, Sikh, Buddhist, Jain, Parsi) and economic status, distinguishing between Above Poverty Line (APL), Below Poverty Line (BPL), and Poorest of the Poor under the PIP category.
 
 
 
@@ -508,7 +504,7 @@ Sector: Climate and Weather
 
 ### CGWB - Changes in Depth to Water Level
 
-Central Ground Water Board monitors groundwater levels throughout the country on a regional scale, four times in a year during the months of March/April/May, August, November and January.This data is collected under the mode of acquisition �Manual�.  For monitoring of ground water level, CGWB has a dedicated network of about 25000 monitoring stations called �National Hydrograph Network Stations (NHNS)�, which comprises open dug wells and purpose-built bore/tube wells for water level monitoring called piezometers.  Similarly, CGWB has initiated automatic high frequency monitoring by installing Digital Water Level Recorders (DWLR) with telemetry systems under the National Hydrology Project (NHP).   This data is collected under the mode of acquisition �Telemetry�.
+Central Ground Water Board monitors groundwater levels throughout the country on a regional scale, four times in a year during the months of March/April/May, August, November and January.This data is collected under the mode of acquisition Manual.  For monitoring of ground water level, CGWB has a dedicated network of about 25000 monitoring stations called National Hydrograph Network Stations (NHNS), which comprises open dug wells and purpose-built bore/tube wells for water level monitoring called piezometers.  Similarly, CGWB has initiated automatic high frequency monitoring by installing Digital Water Level Recorders (DWLR) with telemetry systems under the National Hydrology Project (NHP). This data is collected under the mode of acquisition Telemetry.
 
 
 | Variable Name   | Variable Description       | Variable Type | Unit of Measurement |
@@ -574,7 +570,7 @@ Data Retrival Date: 30-04-2025
 
 ---
 
-[Dataset Summary: Power Generation](https://dev.indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
+[Dataset Summary: Power Generation](https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc#dataset-summary)
 
 ## APMC arrivals and prices
 
